@@ -1,4 +1,4 @@
-# Site title and subtitle. This is used in _includes/header.html 
+# Site title and subtitle. This is used in _includes/header.html
 title: 'Developer '
 subtitle: ''
 
@@ -29,7 +29,6 @@ sections: [
 ]
 
 gems:
-    - algoliasearch-jekyll
     - jekyll-paginate
 
 algolia:
@@ -50,7 +49,8 @@ highlighter: rouge
 future: true
 
 # Exclude non-site files
-exclude: [node_modules, dynamic, LICENSE, README.md, package.json, s3_website.yml, Gemfile, Gemfile.lock]
+exclude: [node_modules, dynamic, LICENSE, README.md, package.json, s3_website.yml, Gemfile, Gemfile.lock, _test, scripts]
+include: ['_webinars']
 
 # Use the kramdown Markdown renderer
 markdown: kramdown
@@ -66,7 +66,7 @@ redcarpet:
         'hardwrap'
     ]
 
-paginate: 9
+paginate: 8
 paginate_path: "/blog/page:num/"
 
 # applies to _posts only for some reason
@@ -74,4 +74,15 @@ permalink: blog/:year/:month/:day/:title/
 excerpt_separator: <!--more-->
 
 collections:
-    permalink: :basename/
+  webinars:
+    output: true
+    permalink: /webinars/:year/:month/:day/
+
+## Jekyll Archives configuration
+jekyll-archives:
+  enabled:
+    - categories
+  layouts:
+    category: archive-tag
+  permalinks:
+    category: 'blog/:name/'

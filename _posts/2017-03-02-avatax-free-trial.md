@@ -2,17 +2,18 @@
 layout: post
 title: Free TaxRates API
 description: Try out AvaTax for free today!
+relevantapimethods: RequestFreeTrial, TaxRatesByAddress, TaxRatesByPostalCode
 date: 2017-03-02 14:00
 author: Ted Spence
 comments: true
-categories: [Sales Tax APIs]
+categories: [avatax, free tax rates]
 product: blog
 doctype: blog
 disqus: 1
 avaform: 1
 ---
 
-Want to try out AvaTax before you buy?  As of the February release, AvaTax now offers both a [free TaxRates API](https://sandbox-rest.avatax.com/swagger/ui/index.html#!/Free/TaxRatesByAddress) and a [free trial of AvaTax](https://sandbox-rest.avatax.com/swagger/ui/index.html#!/Free/RequestFreeTrial) - both of which are available today in the [AvaTax SDK](http://developer.avalara.com/sdk)!
+Want to try out AvaTax before you buy?  As of the February release, AvaTax now offers both a [free TaxRates API](/api-reference/avatax/rest/v2/methods/Free/TaxRatesByAddress/) and a [free trial of AvaTax](/api-reference/avatax/rest/v2/methods/Free/RequestFreeTrial/) - both of which are available today in the [AvaTax SDK](/sdk)!
 
 <h2>Free TaxRates</h2>
 
@@ -32,9 +33,9 @@ First, let's get you an AvaTax account.  This free AvaTax account comes with tri
 
 <h2>Download the AvaTax SDK</h2>
 
-If you'd like to speed up your development process, please feel free to make use of the [AvaTax SDK](http://developer.avalara.com/sdk/).  You can download the SDK right now for C#, Java, PHP, or Scala languages; we're currently working to build out support for a wide variety of languages.  All of our software development kits are fully open source and we welcome feedback, issue reports, and pull requests.
+If you'd like to speed up your development process, please feel free to make use of the [AvaTax SDK](/sdk/).  You can download the SDK right now for C#, Java, PHP, or Scala languages; we're currently working to build out support for a wide variety of languages.  All of our software development kits are fully open source and we welcome feedback, issue reports, and pull requests.
 
-If you'd like to develop your own code, the [AvaTax API is fully documented](https://sandbox-rest.avatax.com/swagger/ui/index.html) using Swagger.  Just browse through the published list of APIs to find the functionality you'd like to use, and try it out online.  Click the `Authorize` button on the top right hand corner of the page and you can type in your credentials, and experiment with the API immediately.
+If you'd like to develop your own code, the [AvaTax API is fully documented](/api-reference/avatax/rest/v2/) using Swagger.  Just browse through the published list of APIs to find the functionality you'd like to use, and try it out online.  Click the `Authorize` button on the top right hand corner of the page and you can type in your credentials, and experiment with the API immediately.
 
 <h2>Calling TaxRates</h2>
 
