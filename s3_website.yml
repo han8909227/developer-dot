@@ -15,8 +15,6 @@ treat_zero_length_objects_as_redirects: true
 
 redirects:
   form: /avatax/signup
-  get-started/: /avatax/signup
-  signup/: /avatax/signup
   api-documentation: /avalara-apis
   api-documentation/avatax16: /avalara-apis
   api-documentation/avatax-15-api: /avatax
@@ -524,7 +522,6 @@ redirects:
   api-docs/best-practices/document-lifecycle/ping:  /avatax/use-cases
   api-docs/rest/resources/tax/get/ver-post/response/feed/feed:  /api-reference/avatax/rest/v2
   api-get-started\':  /avatax/signup
-  api-signup\': avatax/signup
   api-docs/rest/resources/tax/get/ver-post/feed:  /api-reference/avatax/rest/v2
   api-docs/rest/resources/accessing-resources/feed/:  /api-reference/avatax/rest/v2
   api-docs/rest/resources/tax/get/ver-get/sample-xml-request-successful/feed:  /api-reference/avatax/rest/v2
