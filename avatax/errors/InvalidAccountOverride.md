@@ -8,7 +8,7 @@ disqus: 1
 
 ## Summary
 
-TBD
+Invalid AccountOverride format.
 
 ## Example
 
@@ -32,4 +32,4 @@ TBD
 
 ## Explanation
 
-TBD
+Please append the overriding AccountId to your TechnicalSupport UserName, separated with '%'.

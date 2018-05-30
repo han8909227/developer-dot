@@ -8,7 +8,7 @@ disqus: 1
 
 ## Summary
 
-TBD
+Advanced Rule script provided contained errors.
 
 ## Example
 
@@ -32,4 +32,4 @@ TBD
 
 ## Explanation
 
-TBD
+Please check the rule script provided to the API for errors.

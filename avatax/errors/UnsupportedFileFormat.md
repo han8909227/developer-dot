@@ -8,7 +8,7 @@ disqus: 1
 
 ## Summary
 
-TBD
+The requested output file format is invalid.
 
 ## Example
 
@@ -32,4 +32,4 @@ TBD
 
 ## Explanation
 
-TBD
+The requested output file format must either be DMA or STANDARD csv file.

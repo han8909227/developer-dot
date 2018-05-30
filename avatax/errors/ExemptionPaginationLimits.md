@@ -8,7 +8,7 @@ disqus: 1
 
 ## Summary
 
-TBD
+AvaTax exemption data does not support this type of pagination.
 
 ## Example
 
@@ -32,4 +32,4 @@ TBD
 
 ## Explanation
 
-TBD
+See error description in your error for full detail. 

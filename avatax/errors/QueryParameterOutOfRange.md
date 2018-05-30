@@ -8,7 +8,7 @@ disqus: 1
 
 ## Summary
 
-TBD
+The query parameter is out of range.
 
 ## Example
 
@@ -32,4 +32,4 @@ TBD
 
 ## Explanation
 
-TBD
+See description of your error message for the field that is causing this error.

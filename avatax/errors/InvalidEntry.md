@@ -8,7 +8,7 @@ disqus: 1
 
 ## Summary
 
-TBD
+Invalid entry.
 
 ## Example
 
@@ -32,4 +32,4 @@ TBD
 
 ## Explanation
 
-TBD
+The provided input is invalid, see the description on your error to determine the exact field.

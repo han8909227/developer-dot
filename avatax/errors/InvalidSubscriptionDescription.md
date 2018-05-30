@@ -8,7 +8,7 @@ disqus: 1
 
 ## Summary
 
-TBD
+Subscription description cannot be None when subscriptionTypeId is not provided
 
 ## Example
 
@@ -32,4 +32,4 @@ TBD
 
 ## Explanation
 
-TBD
+Please provide description when subscriptionTypeId is not provided

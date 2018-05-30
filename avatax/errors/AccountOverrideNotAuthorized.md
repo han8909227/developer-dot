@@ -8,7 +8,7 @@ disqus: 1
 
 ## Summary
 
-TBD
+The current role you are in does not permit account override function
 
 ## Example
 
@@ -32,4 +32,4 @@ TBD
 
 ## Explanation
 
-TBD
+Note that only Avalara Technical Support users would have permission to override accounts

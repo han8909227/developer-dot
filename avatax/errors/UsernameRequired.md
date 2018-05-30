@@ -8,7 +8,7 @@ disqus: 1
 
 ## Summary
 
-TBD
+A username is required
 
 ## Example
 
@@ -32,4 +32,4 @@ TBD
 
 ## Explanation
 
-TBD
+Please provide username with your request.

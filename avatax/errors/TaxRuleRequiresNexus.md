@@ -8,7 +8,7 @@ disqus: 1
 
 ## Summary
 
-TBD
+Nexus is not declared in this region, therefore no tax rule can be created.
 
 ## Example
 
@@ -32,4 +32,4 @@ TBD
 
 ## Explanation
 
-TBD
+Please create a nexus before declaring tax rule in this region/state, by using CreateNexus API.

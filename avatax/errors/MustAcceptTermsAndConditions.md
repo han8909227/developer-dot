@@ -8,7 +8,7 @@ disqus: 1
 
 ## Summary
 
-TBD
+You must read and accept Avalara's terms and conditions to get a FreeTrial Account
 
 ## Example
 
@@ -32,4 +32,4 @@ TBD
 
 ## Explanation
 
-TBD
+Please read and accept Avalara's terms and conditions to get a FreeTrial Account

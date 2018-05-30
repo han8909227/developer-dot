@@ -8,7 +8,7 @@ disqus: 1
 
 ## Summary
 
-TBD
+Failed to execute the advanced rule script.
 
 ## Example
 
@@ -32,4 +32,4 @@ TBD
 
 ## Explanation
 
-TBD
+See the error description you received for detail on the specific error with the advanced rule script. 

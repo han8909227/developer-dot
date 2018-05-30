@@ -8,7 +8,7 @@ disqus: 1
 
 ## Summary
 
-TBD
+The certificate API has returned an error.
 
 ## Example
 
@@ -32,4 +32,4 @@ TBD
 
 ## Explanation
 
-TBD
+Please retry periodically, if this error persist please contact your Customer Account Manager or our tech support directly.

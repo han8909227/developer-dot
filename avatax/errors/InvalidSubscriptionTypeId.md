@@ -8,7 +8,7 @@ disqus: 1
 
 ## Summary
 
-TBD
+Invalid subscription TypeId.
 
 ## Example
 
@@ -32,4 +32,4 @@ TBD
 
 ## Explanation
 
-TBD
+SubscriptionTypeId cannot be 0

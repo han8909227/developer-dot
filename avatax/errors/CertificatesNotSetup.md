@@ -8,7 +8,7 @@ disqus: 1
 
 ## Summary
 
-TBD
+The company has not been configured with this certificate.
 
 ## Example
 
@@ -32,4 +32,5 @@ TBD
 
 ## Explanation
 
-TBD
+Please config your certifcate to include this company in your admin console or through 
+https://developer.avalara.com/api-reference/avatax/rest/v2/methods/Certificates/RequestCertificateSetup/

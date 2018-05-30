@@ -8,7 +8,7 @@ disqus: 1
 
 ## Summary
 
-TBD
+Filtering operation is not supported
 
 ## Example
 
@@ -32,4 +32,4 @@ TBD
 
 ## Explanation
 
-TBD
+This API (see your error message) does not support filter command

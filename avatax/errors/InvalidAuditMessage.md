@@ -8,7 +8,7 @@ disqus: 1
 
 ## Summary
 
-TBD
+Please review your audit message and ensure no special characters are used.
 
 ## Example
 
@@ -32,4 +32,4 @@ TBD
 
 ## Explanation
 
-TBD
+For detail on which character is causing this error, please see the description on your error.

@@ -8,7 +8,7 @@ disqus: 1
 
 ## Summary
 
-TBD
+The nexus cannot be deleted due to child nexus tied to it.
 
 ## Example
 
@@ -32,4 +32,4 @@ TBD
 
 ## Explanation
 
-TBD
+Nexus must be deleted from the child(s) up to the parent if there are child(s) nexus.

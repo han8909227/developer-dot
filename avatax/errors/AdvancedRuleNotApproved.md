@@ -8,7 +8,7 @@ disqus: 1
 
 ## Summary
 
-TBD
+The advanced rule script has not been approved.
 
 ## Example
 
@@ -32,4 +32,4 @@ TBD
 
 ## Explanation
 
-TBD
+The script provided must be in approved state before it can be enabled.

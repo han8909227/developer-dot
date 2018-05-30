@@ -8,7 +8,7 @@ disqus: 1
 
 ## Summary
 
-TBD
+Advanced rule failed to execute.
 
 ## Example
 
@@ -32,4 +32,4 @@ TBD
 
 ## Explanation
 
-TBD
+See the error description in your error for more detail.

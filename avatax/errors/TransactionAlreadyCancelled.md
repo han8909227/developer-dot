@@ -8,7 +8,7 @@ disqus: 1
 
 ## Summary
 
-TBD
+The transaction has already been cancelled
 
 ## Example
 
@@ -32,4 +32,4 @@ TBD
 
 ## Explanation
 
-TBD
+Your transaction has already been cancelled, to create a new one please call CreateTransaction API.

@@ -8,7 +8,7 @@ disqus: 1
 
 ## Summary
 
-TBD
+This document is voided, cannot add or delete lines.
 
 ## Example
 
@@ -32,4 +32,4 @@ TBD
 
 ## Explanation
 
-TBD
+Voided document/transaction cannot be edited in AvaTax, please create a new transaction/document with the changes.

@@ -8,7 +8,7 @@ disqus: 1
 
 ## Summary
 
-TBD
+This field is not queryable.
 
 ## Example
 
@@ -32,4 +32,4 @@ TBD
 
 ## Explanation
 
-TBD
+Please note that this query cannot be queried.

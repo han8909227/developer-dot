@@ -8,7 +8,7 @@ disqus: 1
 
 ## Summary
 
-TBD
+Nexus out of date range with its children.
 
 ## Example
 
@@ -32,4 +32,4 @@ TBD
 
 ## Explanation
 
-TBD
+See the description field in your error message for details.

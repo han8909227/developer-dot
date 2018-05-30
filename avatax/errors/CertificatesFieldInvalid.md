@@ -8,7 +8,7 @@ disqus: 1
 
 ## Summary
 
-TBD
+The certificate API request has an invalid field.
 
 ## Example
 
@@ -32,4 +32,4 @@ TBD
 
 ## Explanation
 
-TBD
+See the exact error message you received for the specific field.

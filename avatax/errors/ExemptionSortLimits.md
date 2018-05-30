@@ -8,7 +8,7 @@ disqus: 1
 
 ## Summary
 
-TBD
+AvaTax exemption data does not support sorting by more than one field.
 
 ## Example
 
@@ -32,4 +32,4 @@ TBD
 
 ## Explanation
 
-TBD
+AvaTax can only sort your exemption data a single field at a time.

@@ -8,7 +8,7 @@ disqus: 1
 
 ## Summary
 
-TBD
+Invalid request content type in the request.
 
 ## Example
 
@@ -32,4 +32,4 @@ TBD
 
 ## Explanation
 
-TBD
+The request content type must be either 'multipart/form-data' or empty string.

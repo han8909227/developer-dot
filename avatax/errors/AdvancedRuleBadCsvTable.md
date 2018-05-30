@@ -8,7 +8,7 @@ disqus: 1
 
 ## Summary
 
-TBD
+The advanced rule table did not contain valid CSV file. 
 
 ## Example
 
@@ -32,4 +32,4 @@ TBD
 
 ## Explanation
 
-TBD
+Please provide a valid CSV file, note that all rows should have the same number of columns.
